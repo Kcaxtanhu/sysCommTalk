@@ -1,0 +1,17 @@
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\DS.SystemsCommunication.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\DS.SystemsCommunication.WebApi.StaticWebAssets.xml
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\obj\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\obj\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.AssemblyInfoInputs.cache
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\obj\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.AssemblyInfo.cs
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\bin\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.exe
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\bin\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.deps.json
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\bin\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.runtimeconfig.json
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\bin\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.runtimeconfig.dev.json
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\bin\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.dll
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\bin\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.pdb
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\obj\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\obj\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.dll
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\obj\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.pdb

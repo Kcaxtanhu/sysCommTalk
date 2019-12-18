@@ -1,0 +1,21 @@
+﻿2019-12-17 11:59:03.114 INFO  Logging to 'C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.ConsoleClient\bin\Debug\netcoreapp3.1\' with level Info
+2019-12-17 11:59:03.144 WARN  TransactionScope should be only used with either the ReadCommitted or the RepeatableRead isolation level.
+2019-12-17 11:59:05.130 INFO  No valid license could be found. Falling back to trial license with start date '2019-10-15'.
+2019-12-17 11:59:05.142 ERROR Trial license expired. To continue using the Particular Service Platform, please extend your trial or purchase a license by visiting http://go.particular.net/trial-expired
+2019-12-17 11:59:05.157 WARN  To extend your trial license, visit: https://particular.net/license/nservicebus?v=7.2.0&t=0&p=windows
+2019-12-17 12:01:00.466 INFO  Logging to 'C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.ConsoleClient\bin\Debug\netcoreapp3.1\' with level Info
+2019-12-17 12:01:38.955 INFO  Logging to 'C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.ConsoleClient\bin\Debug\netcoreapp3.1\' with level Info
+2019-12-17 12:01:38.984 WARN  TransactionScope should be only used with either the ReadCommitted or the RepeatableRead isolation level.
+2019-12-17 12:02:10.284 INFO  Logging to 'C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.ConsoleClient\bin\Debug\netcoreapp3.1\' with level Info
+2019-12-17 12:02:10.311 WARN  TransactionScope should be only used with either the ReadCommitted or the RepeatableRead isolation level.
+2019-12-17 12:04:16.424 INFO  Logging to 'C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.ConsoleClient\bin\Debug\netcoreapp3.1\' with level Info
+2019-12-17 12:04:16.453 WARN  TransactionScope should be only used with either the ReadCommitted or the RepeatableRead isolation level.
+2019-12-17 12:04:48.995 INFO  Logging to 'C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.ConsoleClient\bin\Debug\netcoreapp3.1\' with level Info
+2019-12-17 12:04:49.201 INFO  No valid license could be found. Falling back to trial license with start date '2019-10-15'.
+2019-12-17 12:04:49.216 ERROR Trial license expired. To continue using the Particular Service Platform, please extend your trial or purchase a license by visiting http://go.particular.net/trial-expired
+2019-12-17 12:04:49.233 WARN  To extend your trial license, visit: https://particular.net/license/nservicebus?v=7.2.0&t=0&p=windows
+2019-12-17 12:04:49.318 WARN  Maximum connection pooling value (Max Pool Size=N) is not configured on the provided connection string. The default value (100) will be used.
+2019-12-17 12:05:26.903 INFO  Logging to 'C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.ConsoleClient\bin\Debug\netcoreapp3.1\' with level Info
+2019-12-17 12:05:27.076 INFO  No valid license could be found. Falling back to trial license with start date '2019-10-15'.
+2019-12-17 12:05:27.086 ERROR Trial license expired. To continue using the Particular Service Platform, please extend your trial or purchase a license by visiting http://go.particular.net/trial-expired
+2019-12-17 12:05:27.105 WARN  To extend your trial license, visit: https://particular.net/license/nservicebus?v=7.2.0&t=0&p=windows

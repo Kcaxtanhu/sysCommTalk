@@ -1,0 +1,15 @@
+Bruno Cardoso;01-12-2019;bscardoso@primeit.pt;932222222
+Bernardo Teixeira;01-12-2019;bteixeira@primeit.pt;932222222
+Luís Pires;01-12-2019;lpires@primeit.pt;932222222
+Hélio Rodrigues;01-12-2019;htrodrigues@primeit.pt;932333333
+Joana Correia;01-12-2019;jscorreia@primeit.pt;932222222
+Susana Agrela;01-12-2019;sagrala@primeit.pt;932222222
+Bruno Coimbra;01-12-2019;bcoimbra@primeit.pt;932222222
+Filipe Monterroso;01-12-2019;fmonterroso@primeit.pt;932222222
+Rita Oliveira;01-12-2019;roliveira@primeit.pt;932333333
+Vera Moreira;01-12-2019;vcmoreira@primeit.pt;932222222
+David Ricardo;01-12-2019;dricardo@primeit.pt;932222222
+Joana Salvado;01-12-2019;jsalvado@primeit.pt;932222222
+Bruno Ferreira;01-12-2019;bferreira@primeit.pt;932222222
+Rita Silva;01-12-2019;rsilva@primeit.pt;932333333
+Beatriz Costa;01-12-2019;bcosta@primeit.pt;932222222

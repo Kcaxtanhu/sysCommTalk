@@ -1,0 +1,8 @@
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.Common\bin\Debug\netstandard2.0\DS.SystemsCommunication.Common.deps.json
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.Common\bin\Debug\netstandard2.0\DS.SystemsCommunication.Common.dll
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.Common\bin\Debug\netstandard2.0\DS.SystemsCommunication.Common.pdb
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.Common\obj\Debug\netstandard2.0\DS.SystemsCommunication.Common.AssemblyInfoInputs.cache
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.Common\obj\Debug\netstandard2.0\DS.SystemsCommunication.Common.AssemblyInfo.cs
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.Common\obj\Debug\netstandard2.0\DS.SystemsCommunication.Common.dll
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.Common\obj\Debug\netstandard2.0\DS.SystemsCommunication.Common.pdb
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.Common\obj\Debug\netstandard2.0\DS.SystemsCommunication.Common.csprojAssemblyReference.cache
