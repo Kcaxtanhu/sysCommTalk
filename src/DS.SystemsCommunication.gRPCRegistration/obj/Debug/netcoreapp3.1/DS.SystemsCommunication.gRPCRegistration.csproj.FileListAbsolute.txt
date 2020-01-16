@@ -1,4 +1,3 @@
-C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.gRPCRegistration\obj\Debug\netcoreapp3.1\DS.SystemsCommunication.gRPCRegistration.csprojAssemblyReference.cache
 C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.gRPCRegistration\obj\Debug\netcoreapp3.1\staticwebassets\DS.SystemsCommunication.gRPCRegistration.StaticWebAssets.Manifest.cache
 C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.gRPCRegistration\obj\Debug\netcoreapp3.1\staticwebassets\DS.SystemsCommunication.gRPCRegistration.StaticWebAssets.xml
 C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.gRPCRegistration\bin\Debug\netcoreapp3.1\appsettings.Development.json

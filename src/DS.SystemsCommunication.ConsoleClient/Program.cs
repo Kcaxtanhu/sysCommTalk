@@ -14,15 +14,20 @@ namespace DS.SystemsCommunication.ConsoleClient
 {
     class Program
     {
+        private static Greeter.GreeterClient _client = null;
+
         static async Task Main(string[] args)
         {
+            InitClient();
             Console.WriteLine("Starting Registration Console Server");
             Console.WriteLine($"******************* { DateTime.Now } *******************");
 
             var regists = GetAllRegisteredPersonsFromFile();
-            var registsJson = JsonConvert.SerializeObject(regists);
 
-            await StartRegistrationProcess(registsJson);
+            await StartUnaryRegistrationProcess(regists.FirstOrDefault());
+            await StartClientStreamRegistrationProcess(regists);
+            await StartServerStreamRegistrationProcess(regists);
+            await StartBidirectionalStreamRegistrationProcess(regists);
 
             var countProcessed = 10;
 
@@ -58,18 +63,80 @@ namespace DS.SystemsCommunication.ConsoleClient
             Console.ReadLine();
         }
 
+        private static void InitClient()
+        {
+            if (_client != null)
+            {
+                var channel = GrpcChannel.ForAddress("https://localhost:5001");
+                //_client = new RegistrationSrv.RegistrationSrv(channel);
+                //_client = new Greeter.GreeterClient(channel);
+            }
+        }
+
         private static async Task<int> StartRegistrationProcess(string regists)
+        {
+            var reply = await _client.RegisterApplicationsAsync(
+                              new RegistrationRequest { RegistrationList = regists });
+
+
+            Console.WriteLine("Greeting: " + reply.NoProcessed);
+
+            return await Task.FromResult(1);
+        }
+
+        private static Task StartUnaryRegistrationProcess(Registration regist)
         {
             var count = 0;
 
             var channel = GrpcChannel.ForAddress("https://localhost:5001");
             var client = new Greeter.GreeterClient(channel);
-            var reply = await client.RegisterApplicationsAsync(
-                              new RegistrationRequest { RegistrationList = regists });
-            Console.WriteLine("Greeting: " + reply.NoProcessed);
-            count = int.Parse(reply.NoProcessed);
+            var reply = client.RegisterApplicationsAsync(
+                              new RegistrationRequest ());
 
-            return count;
+
+            Console.WriteLine("Greeting: " + reply.ResponseAsync.Result.NoProcessed);
+            count = int.Parse(reply.ResponseAsync.Result.NoProcessed);
+
+            return Task.CompletedTask;
+        }
+
+        private static Task StartClientStreamRegistrationProcess(IList<Registration> regists)
+        {
+            var count = 0;
+            var reply = _client.RegisterApplicationsAsync(
+                              new RegistrationRequest ());
+
+
+            Console.WriteLine("Greeting: " + reply.ResponseAsync.Result.NoProcessed);
+            count = int.Parse(reply.ResponseAsync.Result.NoProcessed);
+
+            return Task.CompletedTask;
+        }
+
+        private static Task StartServerStreamRegistrationProcess(IList<Registration> regists)
+        {
+            var count = 0;
+            var reply = _client.RegisterApplicationsAsync(
+                              new RegistrationRequest ());
+
+
+            Console.WriteLine("Greeting: " + reply.ResponseAsync.Result.NoProcessed);
+            count = int.Parse(reply.ResponseAsync.Result.NoProcessed);
+
+            return Task.CompletedTask;
+        }
+
+        private static Task StartBidirectionalStreamRegistrationProcess(IList<Registration> regists)
+        {
+            var count = 0;
+            var reply = _client.RegisterApplicationsAsync(
+                              new RegistrationRequest ());
+
+
+            Console.WriteLine("Greeting: " + reply.ResponseAsync.Result.NoProcessed);
+            count = int.Parse(reply.ResponseAsync.Result.NoProcessed);
+
+            return Task.CompletedTask;
         }
 
         public static IList<Registration> GetAllRegisteredPersonsFromFile()

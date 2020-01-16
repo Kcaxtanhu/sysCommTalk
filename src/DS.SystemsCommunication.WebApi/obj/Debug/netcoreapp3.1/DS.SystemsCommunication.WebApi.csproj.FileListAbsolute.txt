@@ -15,3 +15,4 @@ C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.Syste
 C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\obj\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.RazorTargetAssemblyInfo.cache
 C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\obj\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.dll
 C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\obj\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.pdb
+C:\Users\User\Documents\PrimeIT\Tech Talks\1. SystemsCommunitcation\src\DS.SystemsCommunication.WebApi\obj\Debug\netcoreapp3.1\DS.SystemsCommunication.WebApi.csprojAssemblyReference.cache

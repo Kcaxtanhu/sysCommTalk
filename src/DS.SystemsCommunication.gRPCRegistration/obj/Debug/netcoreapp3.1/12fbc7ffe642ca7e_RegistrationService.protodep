@@ -1,0 +1,4 @@
+obj\Debug\netcoreapp3.1/RegistrationService.cs \
+obj\Debug\netcoreapp3.1/RegistrationServiceGrpc.cs: Protos/Enums.proto\
+ C:/Users/User/.nuget/packages/grpc.tools/2.23.0/build/native/include/google/protobuf/timestamp.proto\
+ Protos/RegistrationService.proto

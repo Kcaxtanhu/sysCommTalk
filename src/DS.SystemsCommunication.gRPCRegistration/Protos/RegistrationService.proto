@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+option csharp_namespace = "DS.SystemsCommunication.gRPCRegistration.Protos";
+
+import "Enums.proto";
+import "google/protobuf/timestamp.proto";
+
+
+service RegistrationService {
+	rpc RegisterSingleApplication (RegistrationRequest) returns (RegistrationResult);
+
+	rpc RegisterApplicationsClientStream (stream RegistrationRequest) returns (RegistrationTotalResult);
+
+	rpc RegisterApplicationsServerStream (RegistrationsPacketRequest) returns (stream RegistrationResult);
+
+	rpc RegisterApplicationsBidiractionStream (stream RegistrationRequest) returns (stream RegistrationResult);
+}
+
+message RegistrationRequest {
+	int64 RegistrationId = 1;
+	string Name = 2;
+	string Email = 3;
+	string MobileNo = 4;
+	google.protobuf.Timestamp RegistrationDate = 5;
+}
+
+message RegistrationResult {
+	int64 RegistrationId = 1;
+	RegistrationStatus Status = 2;
+}
+
+message RegistrationTotalResult {
+	RegistrationStatus Status = 1;
+}
+
+message RegistrationsPacketRequest {
+	repeated RegistrationRequest Registrations = 1;
+}

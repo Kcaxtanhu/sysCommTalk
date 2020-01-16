@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option csharp_namespace = "DS.SystemsCommunication.gRPCRegistration.Protos";
+
+enum RegistrationStatus {
+	INVALID = 0;
+	SUCESS = 1;
+	FAILURE = 2;
+}
